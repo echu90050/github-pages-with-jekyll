@@ -1,3 +1,7 @@
+---
+title: "My first accomplishment"
+date: 2020-06-09
+---
 My second accomplishment during high school would be stepping out of my comfort zone and doing things that make me feel uncomfortable. 
 I gradually did more and more activities that I would not do on a daily basis and it was beneficial since I became more confident and took
 more risks, which allowed me to not regret not doing certain things as well as experience things that I would not have been able to if I 
