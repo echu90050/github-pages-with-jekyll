@@ -1,3 +1,5 @@
+![image](https://github.com/echu90050/github-pages-with-jekyll/blob/master/20200522_191345.jpg)
+
 ---
 title: "My first accomplishment"
 date: 2020-06-09
